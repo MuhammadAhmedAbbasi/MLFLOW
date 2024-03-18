@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Kaggle/Framework/mlflow/mlruns/0/115d6cc9a21345c8a421d405c4ce8c96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 115d6cc9a21345c8a421d405c4ce8c96
+run_name: resilient-fawn-613
+run_uuid: 115d6cc9a21345c8a421d405c4ce8c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710719587635
+status: 1
+tags: []
+user_id: Ahemad Abbasi

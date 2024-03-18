@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Kaggle/Framework/mlflow/mlruns/0/d5910f03750a44b1aa2bd4b71714ad6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5910f03750a44b1aa2bd4b71714ad6e
+run_name: unruly-shrew-405
+run_uuid: d5910f03750a44b1aa2bd4b71714ad6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710720585835
+status: 1
+tags: []
+user_id: Ahemad Abbasi
