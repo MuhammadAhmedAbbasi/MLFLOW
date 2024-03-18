@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Kaggle/Framework/mlflow/mlruns/0/5ad4d8cf3c07415fb6ff3e3c6375d57c/artifacts
+end_time: 1710722652809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ad4d8cf3c07415fb6ff3e3c6375d57c
+run_name: mercurial-skink-524
+run_uuid: 5ad4d8cf3c07415fb6ff3e3c6375d57c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710722650873
+status: 3
+tags: []
+user_id: Ahemad Abbasi
